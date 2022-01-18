@@ -12,7 +12,7 @@ web-build/
 app-env
 .env
 env.js
-yelp.js
+src/api/
 
 # macOS
 .DS_Store
